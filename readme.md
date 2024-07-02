@@ -6,7 +6,7 @@ This web application allows users to generate images using various AI models lik
 
 ### Prerequisites
 
-- Python 3.6+
+- Python 3.10+
 - pip (Python package installer)
 - Git (optional)
 
