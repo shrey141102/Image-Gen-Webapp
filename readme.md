@@ -31,7 +31,7 @@ This web application allows users to generate images using various AI models lik
      LIME_API_KEY=your_lime_api_key
      HORDE_API_KEY=your_horde_api_key
      ```
-     Replace `your_openai_api_key`, `your_lime_api_key`, and `your_horde_api_key` with your respective API keys.
+     Replace `your_openai_api_key` [Get your key here](https://openai.com/api/), `your_lime_api_key` [Get your key here](https://limewire.com/u/subscriptions/api?tier=API_FREE), and `your_horde_api_key` [Get your key here](https://stablehorde.net/register) with your respective API keys.
 
 ### Running the Application
 
