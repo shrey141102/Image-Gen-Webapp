@@ -20,7 +20,7 @@ st.sidebar.header("Model Selection")
 with st.sidebar:
     model = st.selectbox(
         "Select AI Model",
-        ("Dall-E", "Lime", "Anything Diffusion", "AlbedoBase XL (SDXL)", "Deliberate", "GhostMix") ## "aMUSEd", "google-vertexAI",
+        ("Dall-E", "Lime", "Anything Diffusion", "AlbedoBase XL (SDXL)", "Deliberate", "ICBINP - I Can't Believe It's Not Photography", "Dreamshaper", "stable_diffusion", "URPM", "Juggernaut XL") ## "aMUSEd", "google-vertexAI",
     )
 
     api = st.text_input("Enter your API key here",  placeholder="not needed now (testing)")
